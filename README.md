@@ -19,8 +19,6 @@
 | **Windows** | [rustcom.exe](https://github.com/suding-china/rustcom-release/releases/latest) | 双击运行，无需安装 |
 | **Linux** | [rustcom](https://github.com/suding-china/rustcom-release/releases/latest) | `chmod +x rustcom && ./rustcom` |
 
-> 也可直接下载：[COS 镜像 (国内加速)](https://myphotos-1257188211.cos.ap-shanghai.myqcloud.com/rustcom/releases/rustcom.exe)
-
 ---
 
 ## 为什么选择 RustCom？
